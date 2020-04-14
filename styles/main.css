@@ -47,4 +47,7 @@ td {
   -webkit-transform: translateY(-5px);
           transform: translateY(-5px); }
 
+.non-active__td {
+  background-color: #e0e0e0; }
+
 /*# sourceMappingURL=main.css.map */
